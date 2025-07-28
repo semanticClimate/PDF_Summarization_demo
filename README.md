@@ -1,6 +1,14 @@
-# \<Your Notebook Title\>
+# Demonstration of PDF Summarization
 
-DOI Zenodo badge: \<[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)\>
+<a href="https://colab.research.google.com/github/semanticClimate/PDF_Summarization_demo/blob/main/RevLit_PDF_Summarization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+DOI Zenodo badge: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16526790.svg)](https://doi.org/10.5281/zenodo.16526790)
+
+Citation:
+
+Barbhuiya, S., S, A., Jawed, M., Kumari, R., Simon, W., Yadav, G., & Murray-Rust, P. (2025). Demonstration of PDF Summarization (0.1a). Zenodo. https://doi.org/10.5281/zenodo.16526790
 
 **Description:**
 
